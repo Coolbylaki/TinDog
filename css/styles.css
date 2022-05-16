@@ -13,3 +13,7 @@ h1 {
     font-weight: 900;
 
 }
+
+.container-fluid {
+    padding: 3% 15%;
+}
