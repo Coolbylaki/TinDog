@@ -1,14 +1,15 @@
-.navbar-brand {
-    margin-left: 10px;
+body {
+    font-family: Montserrat,
 }
 
 #title {
     background-color: #FF4c68;
+    color: #FFF;
 }
 
 h1 {
     font-family: Montserrat, sans-serif;
-    font-size: 3rem;
+    font-size: 3.5rem;
     line-height: 1.5;
     font-weight: 900;
 
@@ -16,4 +17,38 @@ h1 {
 
 .container-fluid {
     padding: 3% 15%;
+}
+
+/*Navigation bar*/
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-family: Montserrat-light, sans-serif;
+    font-size: 1.2rem;
+}
+
+/*Download Buttons*/
+
+.down-btn {
+    margin: 5% 3% 5% 0
+}
+
+/*Title Image*/
+
+.title-img {
+    width: 60%;
+    transform: rotate(25deg);
 }
