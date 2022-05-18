@@ -17,7 +17,7 @@ h1 {
 
 h2 {
     font-weight: bold;
-    font-size: 4rem;
+    font-size: 3.9rem;
     line-height: 1.5;
 }
 
@@ -91,10 +91,18 @@ p {
 /*Testimonial section*/
 
 #testimonials {
-    padding: 7% 15% 5%;
     text-align: center;
     background-color: #ef8172;
     color: #fff;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.car-btn {
+    width: 3vw;
+    height: 3vw;
 }
 
 .testimonial-img {
@@ -111,4 +119,5 @@ p {
 
 .press_img {
     margin: 0 3%;
+    width: 15%;
 }
