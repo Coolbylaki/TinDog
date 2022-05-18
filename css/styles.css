@@ -31,7 +31,7 @@ p {
 }
 
 .container-fluid {
-    padding: 3% 15%;
+    padding: 3% 15% 15%;
 }
 
 /*
@@ -66,16 +66,24 @@ Download Buttons*/
 /*
 Title Image*/
 
-.title-img {
+.iphone-container {
+    position: relative;
+}
+
+.iphone {
     width: 60%;
     transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
 }
 
 /*
 Features Section*/
 
 #features {
-    padding: 7% 15% 7% 15%;
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
 }
 
 .fea_ico {
