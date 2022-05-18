@@ -34,7 +34,8 @@ p {
     padding: 3% 15%;
 }
 
-/*Navigation bar*/
+/*
+Navigation bar*/
 
 .navbar {
     padding: 0 0 4.5rem;
@@ -55,20 +56,23 @@ p {
     font-size: 1.2rem;
 }
 
-/*Download Buttons*/
+/*
+Download Buttons*/
 
 .down-btn {
     margin: 5% 3% 5% 0
 }
 
-/*Title Image*/
+/*
+Title Image*/
 
 .title-img {
     width: 60%;
     transform: rotate(25deg);
 }
 
-/*Features Section*/
+/*
+Features Section*/
 
 #features {
     padding: 7% 15% 7% 15%;
@@ -88,7 +92,8 @@ p {
     padding: 6.5%;
 }
 
-/*Testimonial section*/
+/*
+Testimonial Section*/
 
 #testimonials {
     text-align: center;
@@ -120,4 +125,20 @@ p {
 .press_img {
     margin: 0 3%;
     width: 15%;
+}
+
+/*
+Pricing Section*/
+
+.card-btn {
+    width: 100%;
+}
+
+#pricing {
+    text-align: center;
+    padding: 100px;
+}
+
+.pricing-col {
+    padding: 3% 2%;
 }
