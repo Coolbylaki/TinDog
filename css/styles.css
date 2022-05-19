@@ -160,3 +160,36 @@ Pricing Section*/
         transform: rotate(0);
     }
 }
+
+/*
+Cta Section*/
+
+#cta {
+    text-align: center;
+    background-color: #ff4c68;
+    padding: 7% 15% 3%;
+}
+
+#cta-h3 {
+    color: #fff;
+    font-family: Montserrat;
+    font-weight: 900;
+    font-size: 3.5rem;
+}
+
+.cta-btn {
+    margin: 5% 1% 0;
+}
+
+/*
+Footer*/
+
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.social-ico {
+    margin: 0 10px 10px 10px;
+}
