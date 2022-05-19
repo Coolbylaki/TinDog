@@ -1,7 +1,8 @@
 <h1 align="center">TinDog</h1>
 
 <!-- ABOUT THE PROJECT -->
-Website link: [You can check it out here!](https://coolbylaki.github.io/TinDog/)
+Website link: [You can check it out here!](https://coolbylaki.github.io/TinDog/) <br/>
+Notice: Copycat website for practice!
 
 ![TinDog screenshot](https://user-images.githubusercontent.com/74930516/169280765-a7183059-a632-4356-a9a9-14244e7bf447.png)
 
