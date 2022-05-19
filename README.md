@@ -8,7 +8,7 @@ Notice: Copycat website for practice!
 
 ## Built With:
 
-* [Bootstrap 5](https://nextjs.org/)
+* [Bootstrap 5](https://getbootstrap.com/)
 * [HTML](https://html5up.net/)
 
 
