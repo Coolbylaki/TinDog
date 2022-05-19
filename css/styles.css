@@ -1,33 +1,24 @@
+/*
+General Page Styling*/
+
 body {
     font-family: Montserrat,
 }
 
-#title {
-    background-color: #FF4c68;
-    color: #FFF;
-}
-
-h1 {
-    font-family: Montserrat, sans-serif;
-    font-size: 3.5rem;
-    line-height: 1.5;
-    font-weight: 900;
-
-}
-
-h2 {
+h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
-    font-size: 3.9rem;
-    line-height: 1.5;
-}
-
-h3 {
-    font-weight: bold;
-    font-size: 1.75rem;
 }
 
 p {
     color: #8f8f8f;
+}
+
+/*
+Title Section*/
+
+#title {
+    background-color: #FF4c68;
+    color: #FFF;
 }
 
 .container-fluid {
@@ -86,12 +77,16 @@ Features Section*/
     position: relative;
 }
 
-.fea_ico {
+.feature-title{
+    font-size: 1.75rem;
+}
+
+.fea-ico {
     color: #ef8172;
     margin-bottom: 1rem;
 }
 
-.fea_ico:hover {
+.fea-ico:hover {
     color: #ff4c68;
 }
 
@@ -107,6 +102,11 @@ Testimonial Section*/
     text-align: center;
     background-color: #ef8172;
     color: #fff;
+}
+
+.testimonial-text {
+    font-size: 3.9rem;
+    line-height: 1.5;
 }
 
 .carousel-item {
@@ -130,7 +130,7 @@ Testimonial Section*/
     padding-bottom: 3%;
 }
 
-.press_img {
+.press-img {
     margin: 0 3%;
     width: 15%;
 }
@@ -168,13 +168,7 @@ Cta Section*/
     text-align: center;
     background-color: #ff4c68;
     padding: 7% 15% 3%;
-}
-
-#cta-h3 {
     color: #fff;
-    font-family: Montserrat;
-    font-weight: 900;
-    font-size: 3.5rem;
 }
 
 .cta-btn {
@@ -192,4 +186,25 @@ Footer*/
 
 .social-ico {
     margin: 0 10px 10px 10px;
+}
+
+/*
+Headings*/
+
+.big-heading {
+    font-family: Montserrat, sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+
+}
+
+.price-text {
+    font-size: 3.9rem;
+    line-height: 1.5;
+}
+
+.section-heading {
+    font-size: 3.9rem;
+    line-height: 1.5;
 }
