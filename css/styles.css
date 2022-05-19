@@ -208,3 +208,15 @@ Headings*/
     font-size: 3.9rem;
     line-height: 1.5;
 }
+
+/*
+Phone Adjustment*/
+
+@media (max-width: 550px) {
+    .testimonial-text {
+        font-size: 2.5rem;
+    }
+    .big-heading {
+        font-size: 3rem;
+    }
+}
