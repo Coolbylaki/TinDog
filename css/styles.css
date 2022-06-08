@@ -17,7 +17,7 @@ p {
 Title Section*/
 
 #title {
-    background-color: #FF4c68;
+    background-color: black;
     color: #FFF;
 }
 
@@ -77,7 +77,7 @@ Features Section*/
     position: relative;
 }
 
-.feature-title{
+.feature-title {
     font-size: 1.75rem;
 }
 
@@ -155,6 +155,7 @@ Pricing Section*/
     #title {
         text-align: center;
     }
+
     .title-img {
         position: static;
         transform: rotate(0);
@@ -216,6 +217,7 @@ Phone Adjustment*/
     .testimonial-text {
         font-size: 2.5rem;
     }
+
     .big-heading {
         font-size: 3rem;
     }
