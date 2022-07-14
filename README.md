@@ -1,4 +1,4 @@
-<h1 align="center">TinDog</h1>
+<h1 align="center">TinDog!</h1>
 
 <!-- ABOUT THE PROJECT -->
 Website link: [You can check it out here!](https://coolbylaki.github.io/TinDog/) <br/>
